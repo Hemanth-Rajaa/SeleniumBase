@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-25T15:39:14 IST" name="Suite" finished-at="2022-08-25T15:39:14 IST" duration-ms="70">
+  <suite started-at="2022-08-27T17:29:28 IST" name="Default suite" finished-at="2022-08-27T17:29:28 IST" duration-ms="72">
     <groups>
     </groups>
-    <test started-at="2022-08-25T15:39:14 IST" name="Test" finished-at="2022-08-25T15:39:14 IST" duration-ms="70">
+    <test started-at="2022-08-27T17:29:28 IST" name="Default test" finished-at="2022-08-27T17:29:28 IST" duration-ms="72">
       <class name="org.network.Wifi">
-        <test-method signature="wifiName()[pri:0, instance:org.network.Wifi@25d250c6]" started-at="2022-08-25T15:39:14 IST" name="wifiName" finished-at="2022-08-25T15:39:14 IST" duration-ms="12" status="PASS">
+        <test-method signature="wifiName()[pri:0, instance:org.network.Wifi@56de5251]" started-at="2022-08-27T17:29:28 IST" name="wifiName" finished-at="2022-08-27T17:29:28 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- wifiName -->
       </class> <!-- org.network.Wifi -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
